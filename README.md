@@ -1,4 +1,5 @@
 # AcikKaynak
-ubuntu-->entegrasyon,push,commit,tag,dallandırma--------------------->.py and images5
+ubuntu-->entegrasyon,push,commit,tag,dallandırma islemleri yapıldı.
+deneme.py-->eklendi
 
 NOT:images5 klasörü user-frontend branch altındadır.
