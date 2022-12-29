@@ -12,7 +12,7 @@ class rastgeleSayiSinif(Resource):
 
 class kupAl(Resource):
     def get(self,number):
-        kupu=number**3
+        kup=number**3
         return {'Kupu' : kupu}, 200
 
 class Name(Resource):

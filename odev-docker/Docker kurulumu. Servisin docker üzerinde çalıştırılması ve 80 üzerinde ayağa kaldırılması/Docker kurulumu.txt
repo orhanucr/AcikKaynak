@@ -1,0 +1,1 @@
+Docker kurulumu. Servisin docker üzerinde çalıştırılması ve 80 veya 443 üzerinde ayağa kaldırılması
